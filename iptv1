@@ -1,93 +1,177 @@
 #EXTM3U
-#EXTINF:-1,tv ikim
-http://edge.vediostream.com/abr/tvikim/playlist.m3u8
-#EXTINF:-1,drama sangat
-http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
-#EXTINF:-1,tv1
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1,tv2
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-#EXTINF:-1,tv3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1,astroprima
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:-1,astro oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1,astro citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1,astro naura
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-#EXTINF:-1,suria
-http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
-#EXTINF:-1,alhijrah
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
-#EXTINF:-1,iptvtools_36
-http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
-#EXTINF:-1,ntv7
-http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-#EXTINF:-1,tv9
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-#EXTINF:-1,Xiaotaiyang
-http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF:-1,Shuangxing
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1,Xinhe
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-#EXTINF:-1,Celestial
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1,iptvtools_64
-http://210.210.155.35/qwr9ew/s/s33/01.m3u8
-#EXTINF:-1,Celestial2
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1,Ohk
-http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-#EXTINF:-1,TVN
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-#EXTINF:-1,Boo
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1,Hbo
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1,iptvtools_105
-http://210.210.155.35/qwr9ew/s/s34/01.m3u8?pijanify.m3u8
-#EXTINF:-1,astro Awani
-http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-#EXTINF:-1,Bernama
-http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1,iptvtools_112
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1,iptvtools_113
-http://210.210.155.35/uq2663/h/h29/01.m3u8
-#EXTINF:-1,Natgeowild
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1,AnimalPlanet
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1,Astro Ceria
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1,NickJr
-http://bit.ly/NickJr360p
-#EXTINF:-1,HGTV
-http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF:-1,iptvtools_169
-http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF:-1,iptvtools_202
-https://heroku.critozymirror.tk/0:/Demon%20Slayer%20-Kimetsu%20no%20Yaiba-%20Mugen%20Train%20Movie%20%5B1080p%5D%20%5BPSN%20WEBRip%5D%20%5BDual%20Audio%5D_MultiSubs.mkv
-#EXTINF:-1,iptvtools_203
-https://index.shindourei.workers.dev/0:/Penunggang.Agama.2021.HDTV.1080p.x264.AAC-OMG.mkv
-#EXTINF:-1,iptvtools_204
-https://f2lpadubot.herokuapp.com/1694229264714204/Penunggang.Agama.2021.1080p.PPVHD.mkv
-#EXTINF:-1,iptvtools_205
-https://f2lpadubot.herokuapp.com/1382655157193180/18.Puasa..Di.Kampong.Pisang.1080p.PPVHD.mkv
-#EXTINF:-1,iptvtools_206
-https://f2lpadubot.herokuapp.com/1691858442766812/Terlajak.Subuh.2021.WEB-DL.720p.x264.AAC-OMG_mp4.mp4
-#EXTINF:-1,iptvtools_207
-https://f2lpadubot.herokuapp.com/1694576483803504/Stand.by.Me.Doraemon.2.2020.720p.BDRip.AAC.x264_OMG.mp4
-#EXTINF:-1,iptvtools_208
-https://f2lpadubot.herokuapp.com/1753224935492060/Terlajak%20Sahur.m3u8
-#EXTINF:-1,iptvtools_218
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_223
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF:-1,iptvtools_229
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1,iptvtools_230
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1,TV 1
+http://iptv.tvmalaysia.cc:80/624850/624850/7177
+#EXTINF:-1,TV 2
+http://iptv.tvmalaysia.cc:80/624850/624850/7178
+#EXTINF:-1,TV 3
+http://iptv.tvmalaysia.cc:80/624850/624850/7266
+#EXTINF:-1,TV 3 HD
+http://iptv.tvmalaysia.cc:80/624850/624850/8750
+EXTINF:-1,TV 9 
+http://iptv.tvmalaysia.cc:80/321456/321456/7185
+#EXTINF:-1,ASTRO Ria HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6730
+#EXTINF:-1,ASTRO Prima HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6727
+#EXTINF:-1,ASTRO Warna HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6740
+#EXTINF:-1,Astro Citra HD (subtitle)
+http://iptv.tvmalaysia.cc:80/624850/624850/7267
+#EXTINF:-1,ASTRO Naura HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6724
+#EXTINF:-1,ASTRO Oasis HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6725
+#EXTINF:-1,ASTRO Aura HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6713
+#EXTINF:-1,ASTRO Awani HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6714
+#EXTINF:-1,Asian Food Network HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6693
+#EXTINF:-1,Al-Jazzera HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6694
+#EXTINF:-1,ASTRO Colors Tamil
+http://iptv.tvmalaysia.cc:80/624850/624850/6716
+#EXTINF:-1,ASTRO Vaanavil HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6738
+#EXTINF:-1,Makkal TV
+http://iptv.tvmalaysia.cc:80/624850/624850/6806
+#EXTINF:-1,ASTRO Star Vijay HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6732
+#EXTINF:-1,Jaya Max
+http://iptv.tvmalaysia.cc:80/624850/624850/6802
+#EXTINF:-1,ASTRO Oh!K HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6726
+#EXTINF:-1,Bernama News
+http://iptv.tvmalaysia.cc:80/624850/624850/6750
+#EXTINF:-1,Bloomberg TV
+http://iptv.tvmalaysia.cc:80/624850/624850/6751
+#EXTINF:-1,BollyOne HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6754
+#EXTINF:-1,DMAX HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6778
+#EXTINF:-1,Discovery Asia
+http://iptv.tvmalaysia.cc:80/624850/624850/6772
+#EXTINF:-1,Colors HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6769
+#EXTINF:-1,Colors Cineplex
+http://iptv.tvmalaysia.cc:80/624850/624850/6768
+#EXTINF:-1,tvN Movies
+http://iptv.tvmalaysia.cc:80/624850/624850/6845
+#EXTINF:-1,tvN HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6844
+#EXTINF:-1,TVB Classic
+http://iptv.tvmalaysia.cc:80/624850/624850/6839
+#EXTINF:-1,Sun Music
+http://iptv.tvmalaysia.cc:80/624850/624850/6831
+#EXTINF:-1,KBS World HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6803
+#EXTINF:-1,Hits HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6800
+#EXTINF:-1,HGTV HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6798
+#EXTINF:-1,BERNAMA
+http://iptv.tvmalaysia.cc:80/624850/624850/7190
+#EXTINF:-1,Fox Movies Premium
+http://iptv.tvmalaysia.cc:80/624850/624850/8838
+#EXTINF:-1,Fox Action Movies
+http://iptv.tvmalaysia.cc:80/624850/624850/8839
+#EXTINF:-1,HBO FHD
+http://iptv.tvmalaysia.cc:80/624850/624850/7067
+#EXTINF:-1,HBO Hits FHD
+http://iptv.tvmalaysia.cc:80/624850/624850/7068
+#EXTINF:-1,HBO Signature FHD
+http://iptv.tvmalaysia.cc:80/624850/624850/7069
+#EXTINF:-1,HBO Family FHD
+http://iptv.tvmalaysia.cc:80/624850/624850/7070
+#EXTINF:-1,Hits Movies
+http://iptv.tvmalaysia.cc:80/624850/624850/7066
+#EXTINF:-1,Red By HBO HD
+http://iptv.tvmalaysia.cc:80/624850/624850/7071
+#EXTINF:-1,Warner TV HD
+http://iptv.tvmalaysia.cc:80/624850/624850/7072
+#EXTINF:-1,tVN movies HD
+http://iptv.tvmalaysia.cc:80/624850/624850/7074
+#EXTINF:-1,National Geographic HD
+http://iptv.tvmalaysia.cc:80/624850/624850/7075
+#EXTINF:-1,Nat Geo Wild HD
+http://iptv.tvmalaysia.cc:80/624850/624850/7081
+#EXTINF:-1,Nat Geo People HD
+http://iptv.tvmalaysia.cc:80/624850/624850/7080
+#EXTINF:-1,History FHD
+http://iptv.tvmalaysia.cc:80/624850/624850/7079
+#EXTINF:-1,Discovery Channel HD
+http://iptv.tvmalaysia.cc:80/624850/624850/7078
+#EXTINF:-1,Animal Planet
+http://iptv.tvmalaysia.cc:80/624850/624850/7077
+#EXTINF:-1,Cinema World
+http://iptv.tvmalaysia.cc:80/624850/624850/7219
+#EXTINF:-1,Thrill
+http://iptv.tvmalaysia.cc:80/624850/624850/7220
+#EXTINF:-1,Fox Crime
+http://iptv.tvmalaysia.cc:80/624850/624850/7225
+#EXTINF:-1,KiX
+http://iptv.tvmalaysia.cc:80/624850/624850/7229
+#EXTINF:-1,Sony One
+http://iptv.tvmalaysia.cc:80/624850/624850/8863
+#EXTINF:-1,TvN
+http://iptv.tvmalaysia.cc:80/624850/624850/8865
+#EXTINF:-1,TSN 2
+http://iptv.tvmalaysia.cc:80/624850/624850/8924
+#EXTINF:-1,BT Sport 1
+http://iptv.tvmalaysia.cc:80/624850/624850/6610
+#EXTINF:-1,BT Sport 2
+http://iptv.tvmalaysia.cc:80/624850/624850/6611
+#EXTINF:-1,BT Sport 3
+http://iptv.tvmalaysia.cc:80/624850/624850/6612
+#EXTINF:-1,UK: Sky Sports F1
+http://iptv.tvmalaysia.cc:80/624850/624850/6617
+#EXTINF:-1,UK: Sky Sports Golf
+http://iptv.tvmalaysia.cc:80/624850/624850/6618
+#EXTINF:-1,UK: Sky Sports Cricket
+http://iptv.tvmalaysia.cc:80/624850/624850/6619
+#EXTINF:-1,ASTRO SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6708
+#EXTINF:-1,ASSP 1
+http://iptv.tvmalaysia.cc:80/321456/321456/9024
+#EXTINF:-1,ASTRO SUPERSPORT 2 HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6710
+#EXTINF:-1,ASSP 2
+http://iptv.tvmalaysia.cc:80/321456/321456/9025
+#EXTINF:-1,ASTRO SUPERSPORT 3 HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6711
+#EXTINF:-1,ASSP 3 (LIVE EPL ONLY)
+http://iptv.tvmalaysia.cc:80/321456/321456/9020
+#EXTINF:-1,ASTRO SUPERSPORT 4 HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6712
+#EXTINF:-1,ASSP 4
+http://iptv.tvmalaysia.cc:80/321456/321456/9026
+#EXTINF:-1,Astro Supersport 5
+http://iptv.tvmalaysia.cc:80/321456/321456/9029
+#EXTINF:-1,FOX Sports HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6793
+#EXTINF:-1,MUTV
+http://iptv.tvmalaysia.cc:80/624850/624850/7236
+#EXTINF:-1,LFC TV
+http://iptv.tvmalaysia.cc:80/624850/624850/7237
+#EXTINF:-1,Disney XD FHD
+http://iptv.tvmalaysia.cc:80/624850/624850/7198
+#EXTINF:-1,Boomerang
+http://iptv.tvmalaysia.cc:80/624850/624850/7199
+#EXTINF:-1,Animax
+http://iptv.tvmalaysia.cc:80/624850/624850/6696
+#EXTINF:-1,ASTRO Ceria HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6715
+#EXTINF:-1,Cartoon Network HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6814
+#EXTINF:-1,Nick Jr
+http://iptv.tvmalaysia.cc:80/624850/624850/6813
+#EXTINF:-1,Nickelodeon HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6757
+#EXTINF:-1,Disney XD FHD
+http://iptv.tvmalaysia.cc:80/624850/624850/7198
+#EXTINF:-1,Boomerang
+http://iptv.tvmalaysia.cc:80/624850/624850/7199
+#EXTINF:-1,Universal Kids FHD
+http://iptv.tvmalaysia.cc:80/624850/624850/7205
+#EXTINF:-1,zoomoo_88
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
